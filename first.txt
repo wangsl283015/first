@@ -1,3 +1,4 @@
 git is a version control
 git is very good
-now what is it
+now what is it 
+oh it's easy
